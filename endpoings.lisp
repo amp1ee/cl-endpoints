@@ -1,4 +1,4 @@
-(load #P"/home/amplee/LISP/quicklisp/setup.lisp")
+(load #P"quicklisp/setup.lisp")
 
 (ql:quickload '(:clack
                 :ningle

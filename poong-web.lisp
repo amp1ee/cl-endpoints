@@ -1,4 +1,4 @@
-(load "/home/amplee/LISP/quicklisp/setup.lisp")
+(load "quicklisp/setup.lisp")
 ;;;; app.lisp
 (ql:quickload '(:ningle :clack :clack-handler-hunchentoot :spinneret))
 
