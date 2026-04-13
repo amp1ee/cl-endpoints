@@ -34,12 +34,12 @@
   "<h1>Hey there!</h1>")
 
 (defparameter *dice-links*
-  #("https://bit.ly/4uJOD1D"
-    "https://bit.ly/4lS9mws"
-    "https://bit.ly/3PlN224"
-    "https://bit.ly/4uPdxgE"
-    "https://bit.ly/41hlopw"
-    "https://shorturl.fm/YntLN"
+  #("https://wikipedia.org/"
+    "https://reddit.com/"
+    "https://x.com/"
+    "https://threads.com/"
+    "https://instagram.com/"
+    "https://gigamonkeys.com/"
    )
 )
 
